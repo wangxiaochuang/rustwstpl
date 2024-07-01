@@ -1,0 +1,5 @@
+[workspace]
+members = ["rustpl"]
+resolver = "2"
+
+[workspace.dependencies]
